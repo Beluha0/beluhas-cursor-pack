@@ -6,4 +6,4 @@ A sleek and modern cursor pack that combines beauty and simplicity, with a bit o
 
 | Busy | Working (Light) | Working (Dark) |
 | :---: | :---: | :---: |
-| <img width="80" height="80" alt="working" src="https://github.com/user-attachments/assets/3a752424-f1a0-4177-b942-96803ebcacc8" /> | ![Alt Text 2](link-to-image-2) | ![Alt Text 3](link-to-image-3) |
+| <img width="50" height="50" alt="working" src="https://github.com/user-attachments/assets/3a752424-f1a0-4177-b942-96803ebcacc8" /> | <img width="50" height="50" alt="20260528_162813" src="https://github.com/user-attachments/assets/8c416d6b-43c0-462f-ad5e-642662ed7813" /> | <img width="50" height="50" alt="20260528_163639" src="https://github.com/user-attachments/assets/9fcbcb96-cedb-4258-99de-f4aa2ad56a7a" /> |
