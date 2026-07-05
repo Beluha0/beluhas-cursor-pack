@@ -2,6 +2,8 @@
 <img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/4da0c8dc-7cbd-4629-a078-3cbc876e4142" />
 A minimalistic cursor pack for Windows with a bit of nice colours.
 
+-# I couldn't think of what to name it 
+
 A version for Roblox is also available.
 
 ## Animated cursors
